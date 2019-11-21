@@ -17,3 +17,4 @@ print(type(b)) # <class 'float'>
 print(type(c)) # <class 'complex'>
 print(type(d)) # <class 'str'>
 print(type(e)) # <class 'bool'>
+print(type(e)) # <class 'bool'>
